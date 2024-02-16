@@ -1,0 +1,21 @@
+.scroll-line-container {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scroll-line {
+  font-family: 'Inter';
+  font-weight: light;
+  font-size: 14px;
+  width: 800px;
+  position: relative;
+}
+
+.line {
+  background-color: #8B8B8B;
+  width: 1px;
+  height: 350px;
+  margin: 10px 24px
+}
