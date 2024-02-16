@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+.header {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hello-world {
+  font-family: 'Source Code Pro';
+  font-size: 14px;
+}
+
+.my-name {
+  font-family: 'Inter';
+  font-weight: bold;;
+  font-size: 64px;
+}
+
+.about {
+  font-family: 'Inter';
+  font-weight: bold;;
+  font-size: 48px;
+  color: #757575;
+}
